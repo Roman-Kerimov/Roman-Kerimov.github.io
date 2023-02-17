@@ -4,8 +4,12 @@
         "apps": [],
         "details": [
             {
-                "appID": ["27439PP66C.one.aitec.appteka"],
-                "paths": ["/*"]
+                "appIDs": ["27439PP66C.one.aitec.appteka"],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
             }
         ]
     }
