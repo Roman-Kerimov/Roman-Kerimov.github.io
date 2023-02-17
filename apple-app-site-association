@@ -1,12 +1,23 @@
 {
     "applinks": {
-        "apps": [],
-        "details": {
-            "27439PP66C.one.aitec.appteka": {
-                "paths": {
-                    "/*"
-                }
+        "details": [
+            {
+                "appIDs": ["27439PP66C.one.aitec.appteka"],
+                "components": [
+                    {
+                        "/": "/u/*",
+                        "comment": "Users"
+                    },
+                    {
+                        "/": "/r/*",
+                        "comment": "Reels"
+                    },
+                    {
+                        "/": "/a/*",
+                        "comment": "Scripts"
+                    }
+                ]
             }
-        }
+        ]
     }
 }
