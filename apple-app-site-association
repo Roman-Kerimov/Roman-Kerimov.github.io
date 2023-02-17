@@ -1,0 +1,12 @@
+
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": ["27439PP66C.one.aitec.appteka"],
+                "paths": ["/*"]
+            }
+        ]
+    }
+}
