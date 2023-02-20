@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["27439PP66C.one.aitec.appteka"],
+                "components": [
+                    {
+                        "/": "/referral",
+                        "comment": "Referral"
+                    },
+                    {
+                        "/": "/abc/*",
+                        "comment": "Referral abc"
+                    }
+                ]
+            }
+        ]
+    }
+}
