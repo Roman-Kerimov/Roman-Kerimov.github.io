@@ -5,12 +5,8 @@
                 "appIDs": ["27439PP66C.one.aitec.appteka"],
                 "components": [
                     {
-                        "/": "/referral/*",
+                        "/": "/referral/",
                         "comment": "Referral"
-                    },
-                    {
-                        "/": "/abc/*",
-                        "comment": "Referral abc"
                     }
                 ]
             }
