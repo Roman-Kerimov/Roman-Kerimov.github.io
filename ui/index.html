@@ -7,7 +7,7 @@ var scrt_var = 10;
 <a href="2.html" onclick="location.href=this.href+'?key='+scrt_var;return false;">Link</a>
 <!--  
 <body>
-  <a href="https://roman-kerimov.github.io/ui/authorizationcode?tokenId=${(new URLSearchParams(document.location.search)).get("tokenId")}">LINK with tokenId</a>
+  <a href="https://roman-kerimov.github.io/ui/authorizationcode" onclick="location.href=this.href+'?tokenId='+(new URLSearchParams(document.location.search)).get("tokenId")>LINK with tokenId</a>
  
 </body> -->
  
