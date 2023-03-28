@@ -2,11 +2,11 @@
     "applinks": {
         "details": [
             {
-                "appIDs": ["27439PP66C.one.aitec.appteka"],
+                "appIDs": ["YA4ZZAV8GF.io.metacommerce.prime"],
                 "components": [
                     {
-                        "/": "/referral/",
-                        "comment": "Referral"
+                        "/": "/ui/authorizationcode/",
+                        "comment": "Authorization Code"
                     }
                 ]
             }
