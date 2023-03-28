@@ -2,7 +2,7 @@
 <html lang="en-US">
  
 <body>
-  <a href="https://roman-kerimov.github.io/ui/authorizationcode?tokenId=${}">link with tokenId</a>
+  <a href="https://roman-kerimov.github.io/ui/authorizationcode?tokenId=${tokenId}">Right link with tokenId</a>
   <script>
       const params = new URLSearchParams(document.location.search);
       const tokenId = params.get("tokenId");
